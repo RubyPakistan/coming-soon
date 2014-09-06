@@ -1,0 +1,41 @@
+body {
+	font-family: 'Cabin', sans-serif;
+	/*background-image: url('images/crossword.png');*/
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+#container {
+	margin: 100px 0 0 100px;
+}
+
+#title h1 {
+	font-size: 5em;
+	color: #c43825;
+}
+	
+	#title h1 img {
+		width: 75px;
+		margin-right: 0.2em;
+		margin-bottom: -5px;
+	}
+
+	#title h1 span {
+		font-weight: 900;
+		color: #bdc3c7;
+	}
+
+	#title h3 {
+		font-size: 1em;
+		margin: -60px 0 0 95px;
+		color: #dfe5ec;
+	}
+
+#contact h3 {
+ 	margin: 50px 0 0 95px;
+	color: #dfe5ec;
+}
+
+	#contact h3 a {
+	 	margin-right: 15px;
+		color: #c43825;
+}
